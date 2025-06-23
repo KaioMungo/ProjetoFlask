@@ -31,7 +31,9 @@ Acesse a API em:
 
 http://localhost:5000
 
+
 Endpoints disponíveis
+
 /alunos (GET, POST)
 
 /alunos/<id> (GET, PUT, DELETE)
@@ -44,7 +46,7 @@ Endpoints disponíveis
 
 /turmas/<id> (GET, PUT, DELETE)
 
-Arquitetura Utilizada
+
 Este sistema utiliza uma arquitetura baseada em:
 
 1- Flask + Flask-SQLAlchemy: para a API principal e manipulação do banco de dados relacional
@@ -100,9 +102,13 @@ Fábio Luiz Garrote Ramaldes
 EMAIL
 
 kaio.mungo@aluno.faculdadeimpacta.com.br
+
 diego.criscuolo@aluno.faculdadeimpacta.com.br
+
 bruna.andreata@aluno.faculdadeimpacta.com.br
+
 luiz.calazans@aluno.faculdadeimpacta.com.br
+
 fabio.ramaldes@aluno.faculdadeimpacta.com.br
 
 GITHUB
