@@ -58,11 +58,36 @@ Este sistema utiliza uma arquitetura baseada em:
 4- SQLite/PostgreSQL: como banco de dados (dependendo do ambiente de desenvolvimento)
 
 Estruturas de pastas
-api-principal/ │ ├── aluno/ ├── instance/
+api-principal/ 
+
+├── aluno/
+
+├── instance/
+
 ├── professor/
+
 ├── reseta/
-├── swagger/ ├── turma/
-│ ├── Dockerfile ├── app.py ├── config.py ├── errors.py ├── README.md ├── render.yaml ├── requirements.txt └── tests.py
+
+├── swagger/ 
+
+├── turma/ 
+
+├── Dockerfile
+
+├── app.py 
+
+├── config.py 
+
+├── errors.py 
+
+├── README.md 
+
+├── render.yaml 
+
+├── requirements.txt 
+
+└── tests.py
+
 
 Integração com o ecossitemas de Microsserviços
 O sistema foi desenvolvido com com uma arquitetura de microsserviços, cada um com a sua função e responsabilidades distintas:
@@ -91,15 +116,19 @@ Integração entre os serviços
 Contatos
 caso tenha duvidas ou sugestões, entre em contato com:
 
-NOMES
+NOMES:
 
 Kaio Nogueira Mungo
+
 Diego da Silva Criscuolo
+
 Bruna Bispo Andreata
+
 Luiz Henrique Barros Calazans
+
 Fábio Luiz Garrote Ramaldes
 
-EMAIL
+EMAIL:
 
 kaio.mungo@aluno.faculdadeimpacta.com.br
 
@@ -111,7 +140,7 @@ luiz.calazans@aluno.faculdadeimpacta.com.br
 
 fabio.ramaldes@aluno.faculdadeimpacta.com.br
 
-GITHUB
+GITHUB:
 
 https://github.com/KaioMungo
 
